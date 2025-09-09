@@ -1,6 +1,6 @@
 # 📊 Análise Comparativa de Vagas: Desenvolvimento Mobile x Desktop
 
-Este repositório contém uma pesquisa de mercado sobre vagas de **Desenvolvimento Mobile** e **Desenvolvimento Desktop**, realizada em 2025 com base em listagens reais do **Glassdoor**, **Programathor** e **Indeed**.
+Este repositório contém uma pesquisa de mercado sobre vagas de **Desenvolvimento Mobile** e **Desenvolvimento Desktop**, realizada em Setembro de 2025 com base em listagens reais do **Glassdoor**, **Programathor** e **Indeed**.
 
 ## 📂 Estrutura do Repositório
 - `analise_vagas_mobile_desktop.xlsx` → tabela comparativa completa das 10 vagas analisadas (5 Mobile + 4 Desktop), incluindo links das fontes.
