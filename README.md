@@ -3,11 +3,11 @@
 Este repositório contém uma pesquisa de mercado sobre vagas de **Desenvolvimento Mobile** e **Desenvolvimento Desktop**, realizada em 2025 com base em listagens reais do **Glassdoor**, **Programathor** e **Indeed**.
 
 ## 📂 Estrutura do Repositório
-- `analise_vagas_mobile_desktop.xlsx` → tabela comparativa completa das 10 vagas analisadas (5 Mobile + 5 Desktop), incluindo links das fontes.
+- `analise_vagas_mobile_desktop.xlsx` → tabela comparativa completa das 10 vagas analisadas (5 Mobile + 4 Desktop), incluindo links das fontes.
 - `Relatorio_Analise_vagas_mobile_desktop.pdf` → relatório consolidado com análise técnica, gráfico das stacks mais pedidas, conclusões e plano de ação.
 
 ## 🔍 Metodologia
-1. **Coleta de Dados**: foram levantadas de 5 a 10 vagas em cada segmento, extraídas de plataformas especializadas.
+1. **Coleta de Dados**: foram levantadas de 5 a 9 vagas em cada segmento, extraídas de plataformas especializadas.
 2. **Critérios de Análise**:
    - Hard Skills obrigatórias e desejáveis.
    - Soft Skills mais recorrentes.
